@@ -1,0 +1,8 @@
+# Nmap 7.94SVN scan initiated Thu Nov 13 19:47:32 2025 as: nmap -sS -T3 --max-retries 2 -oA scan_results 192.168.43.0/24
+Host: 192.168.43.1 (_gateway)	Status: Up
+Host: 192.168.43.1 (_gateway)	Ports: 53/open/tcp//domain///	Ignored State: closed (999)
+Host: 192.168.43.237 (moto-g34-5G)	Status: Up
+Host: 192.168.43.237 (moto-g34-5G)	Ports: 5060/filtered/tcp//sip///	Ignored State: closed (999)
+Host: 192.168.43.16 (kishor-HP-246-Notebook-PC)	Status: Up
+Host: 192.168.43.16 (kishor-HP-246-Notebook-PC)	Ports: 	Ignored State: closed (1000)
+# Nmap done at Thu Nov 13 19:47:44 2025 -- 256 IP addresses (3 hosts up) scanned in 11.77 seconds

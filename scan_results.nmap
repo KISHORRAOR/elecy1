@@ -1,0 +1,21 @@
+# Nmap 7.94SVN scan initiated Thu Nov 13 19:47:32 2025 as: nmap -sS -T3 --max-retries 2 -oA scan_results 192.168.43.0/24
+Nmap scan report for _gateway (192.168.43.1)
+Host is up (0.013s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 26:64:CB:2E:76:55 (Unknown)
+
+Nmap scan report for moto-g34-5G (192.168.43.237)
+Host is up (0.021s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT     STATE    SERVICE
+5060/tcp filtered sip
+MAC Address: 52:7A:B4:B6:6F:8B (Unknown)
+
+Nmap scan report for kishor-HP-246-Notebook-PC (192.168.43.16)
+Host is up (0.000016s latency).
+All 1000 scanned ports on kishor-HP-246-Notebook-PC (192.168.43.16) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Thu Nov 13 19:47:44 2025 -- 256 IP addresses (3 hosts up) scanned in 11.77 seconds
